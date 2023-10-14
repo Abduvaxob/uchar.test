@@ -1,0 +1,50 @@
+{
+    "eng" : {
+        "id": "01",
+        "about" : "about",
+        "from" : "from",
+        "to" : "to",
+        "departing" : "departing",
+        "type" : "Post Type",
+        "write" : "write",
+        "contact" : "I can take post with",
+        "describe" : "Briefly about the project: Here are the announcements of people who take hand luggage together with themselves. You can send different types of mail through these people according to the required date and direction. These people are checked through the necessary documents. Let us know if you also pick up mail during the flight. We will post your ad after your documents are verified."
+    },
+
+    "de" : {
+        "id": "02",
+        "about" : "Über",
+        "from" : "von",
+        "to" : "nach",
+        "departing" : "Abflug",
+        "type" : "Post Type",
+        "write" : "Schreiben",
+        "contact" : "Ich can Post mitnehmen",
+        "describe" : "Kurz zum Projekt: Hier sind die Ankündigungen von Personen, die Handgepäck mitnehmen. Über diese Personen können Sie je nach gewünschtem Datum und Richtung verschiedene Arten von Post versenden. Diese Personen werden anhand der erforderlichen Dokumente überprüft. Teilen Sie uns mit, wenn Sie während des Fluges auch Post abholen. Wir veröffentlichen Ihre Anzeige nach Prüfung Ihrer Unterlagen."
+
+    },
+
+    "uz" : {
+        "id": "03",
+        "about" : "Qisqacha",
+        "from" : "dan",
+        "to" : "ga",
+        "departing" : "uchish sanasi",
+        "type" : "Quyidagi pochtalar olinadi",
+        "write" : "Xabar qoldirish",
+        "contact": "Pochta olib ketaman",
+        "describe" : "Loyixa haqida qisqacha:Bu yerda o'zi bilan birgalikda qo'l yuki olib ketadigan insonlar e'lonlari joylashtiriladi.Kerakli sana va yo'nalishga ko'ra turli turdagi pochtalarni shu insonlar orqali berib yuborishingiz mumkin. Ushbu insonlar kerakli hujjatlar orqali tekshiriladi. Agar siz ham uchish davomida pochta olib ketolsangiz bizga habar qoldiring. Hujjatlaringiz tekshirilgandan so'ng e'loningizni joylashtiramiz. "
+    },
+
+    "tu" : {
+        "id": "04",
+        "about" : "Hakkinda",
+        "from" : "dan",
+        "to" : "ile",
+        "departing" : "çikiş tarihi",
+        "type" : "Aşağidaki postalar alinmiştir",
+        "write" : "Yazmak",
+        "contact" : "Postayi alacağim",
+        "describe" : "Proje hakkında kısaca:İşte yanlarında el bagajı alan kişilerin duyuruları.Bu kişiler aracılığıyla istenilen tarih ve yöne göre farklı türde postalar gönderebilirsiniz. Bu kişiler gerekli belgeler üzerinden kontrol edilmektedir. Uçuş sırasında posta alıp almayacağınızı bize bildirin. Belgeleriniz doğrulandıktan sonra ilanınızı yayınlayacağız."
+    }
+}
