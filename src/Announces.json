@@ -1,38 +1,56 @@
 [
     {
-    "from": "Uzbekistan",
-    "to": "Germany",
-    "date" : "16",
-    "month" : "April",
+    "from": "Germany",
+    "to": "Uzbekistan",
+    "date" : "18",
+    "month" : "Oktober",
     "year" : "2023",
-    "id" : "70001",
-    "type" : "Istalgan turdagi pochta"
+    "id" : "UCH555-6",
+    "type" : "Documents"
     },
     {
-        "from": "Uzbekistan",
-        "to": "Germany",
-        "date" : "16",
-        "month" : "April",
+        "from": "Germany",
+        "to": "Uzbekistan",
+        "date" : "19",
+        "month" : "Oktober",
         "year" : "2023",
-        "id" : "70001",
-        "type" : "Istalgan turdagi pochta"
+        "id" : "UCH555-8",
+        "type" : "Every type of post"
         },
     {
         "from": "Uzbekistan",
         "to": "Germany",
-        "date" : "16",
-        "month" : "April",
+        "date" : "21",
+        "month" : "Oktober",
         "year" : "2023",
-        "id" : "70001",
-        "type" : "Istalgan turdagi pochta"
+        "id" : "UCH555-10",
+        "type" : "Every type of post"
         },
     {
         "from": "Uzbekistan",
         "to": "Germany",
-        "date" : "16",
-        "month" : "April",
+        "date" : "23",
+        "month" : "Oktober",
         "year" : "2023",
-        "id" : "70001",
-        "type" : "Istalgan turdagi pochta"
-        }
+        "id" : "UCH555-9",
+        "type" : "Every type of post"
+        },
+        {
+            "from": "Germany",
+            "to": "Uzbekistan",
+            "date" : "25",
+            "month" : "Oktober",
+            "year" : "2023",
+            "id" : "UCH555-12",
+            "type" : "Every type of post"
+            },
+        {
+            "from": "Uzbekistan",
+            "to": "Germany",
+            "date" : "26",
+            "month" : "Oktober",
+            "year" : "2023",
+            "id" : "UCH555-7",
+            "type" : "Every type of post"
+            }
 ]
