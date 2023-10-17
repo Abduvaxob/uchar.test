@@ -1,13 +1,13 @@
 [
-    {
-        "from": "Germany",
-        "to": "Uzbekistan",
-        "date" : "19",
-        "month" : "Oktober",
-        "year" : "2023",
-        "id" : "UCH555-8",
-        "type" : "Every type of post"
-        },
+    // {
+    //     "from": "Germany",
+    //     "to": "Uzbekistan",
+    //     "date" : "19",
+    //     "month" : "Oktober",
+    //     "year" : "2023",
+    //     "id" : "UCH555-8",
+    //     "type" : "Every type of post"
+    //     },
     {
         "from": "Uzbekistan",
         "to": "Germany",
