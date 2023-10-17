@@ -1,14 +1,5 @@
 [
     {
-    "from": "Germany",
-    "to": "Uzbekistan",
-    "date" : "18",
-    "month" : "Oktober",
-    "year" : "2023",
-    "id" : "UCH555-6",
-    "type" : "Documents"
-    },
-    {
         "from": "Germany",
         "to": "Uzbekistan",
         "date" : "19",
@@ -51,6 +42,33 @@
             "month" : "Oktober",
             "year" : "2023",
             "id" : "UCH555-7",
+            "type" : "Every type of post"
+            },
+        {
+            "from": "Uzbekistan",
+            "to": "Germany",
+            "date" : "25",
+            "month" : "Oktober",
+            "year" : "2023",
+            "id" : "UCH555-15",
+            "type" : "Every type of post"
+            },
+        {
+            "from": "Uzbekistan",
+            "to": "Germany",
+            "date" : "29",
+            "month" : "Oktober",
+            "year" : "2023",
+            "id" : "UCH555-16",
+            "type" : "Every type of post"
+            },
+        {
+            "from": "Germany",
+            "to": "Uzbekistan",
+            "date" : "29",
+            "month" : "Oktober",
+            "year" : "2023",
+            "id" : "UCH555-17",
             "type" : "Every type of post"
             }
 ]
